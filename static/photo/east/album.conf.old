@@ -1,0 +1,33 @@
+# I am the configuration file of an album.
+# An album contains all the photos in a folder.
+# An album can have more than 1 index page.
+# An album can also have slides too... the biggest invention here :)
+# Note that the option key here is case INSENSITIVE
+[main]
+numOfPage: 1
+columnPerPage: 4
+bgcolor: #99cc99
+title: Algonquin Park (Barron Canyon) 2002
+titlePic: east27
+isSlideShow: 1
+isPicWithComment: 1
+slideIntervalInSec: 5
+thumbnailExt: .1.jpg
+picExt: .2.jpg
+indexExt: .html
+slideExt: .slide.html
+descExt: .html
+useCurrentDate: 0
+lastUpdateDate: 2002-07-28
+
+# Description for each index page
+[desc]
+default:
+1: <p>With Daesik, Peterson, Karen, Cecily, Daphne, Phoebe, and Percy.  Very windy and cold.  That is a bowl of oatmeal mixed with chocolate mix powder... It was our breakfast(<a href="../teepee/">compare</a>). Get the movies (avi format) from <a href="http://www.comm.utoronto.ca/~wangka/camping/camping.html"> Karen's website</a>.
+
+# Comment for each pic
+[comment]
+default: TEXT HERE
+east01:
+east02:
+

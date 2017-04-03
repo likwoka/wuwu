@@ -1,0 +1,19 @@
+[main]
+columnPerPage: 4
+bgcolor: #66ccff
+title: NYC. Aug-Sept 2002
+titlePic: newyork-daphne-eats-icecream
+slideIntervalInSec: 5
+thumbnailExt: .1.jpg
+photoExt: .2.jpg
+pageExt: .html
+slideExt: .slide.html
+lastUpdateDate: 2002-09-24
+
+[pages]
+maxPhotoPerPage: 20 
+description: <p>Daphne and I were in NYC from Aug 26 to Sept 2...  Reunion with our cousins... Met Eric, Unson, Denise, Sarah, Carol, Bonnie, Alex, Cecilia, Winnie, Ada, Louis... Thanks everyone for this great trip :) <p><a href="http://www.shutterfly.com/osi.jsp?i=67b0de21b305c32dc44b">Ada's Perspective</a><p><a href="http://www.imagestation.com/album/?id=4291407921">Bonny's Perspective</a>
+
+[photos]
+default: Hello World
+

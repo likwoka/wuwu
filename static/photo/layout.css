@@ -1,0 +1,81 @@
+body {
+	font-family: Verdana, helvetica, Arial, Sans;
+	font-size: 100%;
+	margin: 4px;
+}
+
+p {
+	font-family: Verdana, helvetica, Arial, Sans;
+	font-size: 90%;
+}
+
+td {
+	font-family: Verdana, helvetica, Arial, Sans;
+	font-size: 90%;
+}
+
+h1 {
+    font-size: 100%;
+	font-weight: bold;
+	margin-bottom: 0pt;
+	margin-top: 10pt;
+}
+
+h2 {
+	font-size: 100%;
+    font-weight: bold;
+	margin-bottom: 0pt;
+	margin-top: 10pt;
+}
+
+h3 {
+	font-size: 100%;
+    font-weight: bold;
+	margin-bottom: 0pt;
+	margin-top: 10pt;
+}
+
+ul {
+	margin-left: 2px;
+	padding-left: 12px;
+}
+
+li {
+    font-size: 90%;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-bottom: 6px;
+	list-style-image: url(/right.gif);
+}
+
+img {
+    border: 0;
+}
+
+address {
+    font-size: 90%;
+}
+
+.title {
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #0099ff;
+    border-style: solid;
+    border-color: #0066ff;
+    border-width: 2px;
+    font-size: 110%;
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.navbarpos {
+    margin: 20px;
+}
+
+#footer {
+    font-size: 70%;
+}

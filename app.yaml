@@ -1,0 +1,17 @@
+application: wuwu-hrd
+version: 1704-keeweb
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+
+- url: /
+  static_dir: static
+
+- url: /kp/index.html
+  static_files: static/kp/index.html
+  upload: static/kp/index.html
